@@ -1,0 +1,22 @@
+s = {
+	id = "C5B3372C-30B4-474F-8ED1-14705025F069",
+	internalName = "Camera Portrait",
+	title = "Camera Portrait",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Portrait",
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			ProcessVersion = "6.7",
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "E194C008-5D02-471B-899A-DD3D72A5FF0B",
+	},
+	version = 0,
+}
